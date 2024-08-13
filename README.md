@@ -4,7 +4,7 @@
 
 Project isn't finished ! Made with Hard Work, Documentations, keyboard Module. Inspirations from Wooting, Controller SOCD, Snap tap and rappy snappy
 
-# Release **/**/** On Github (OpenSource)
+# Release xx/xx/xx On Github (OpenSource)
 # [> Releases <](https://github.com/intel1337/Strafer/releases)
 
 > I AM NOT RESPONSABLE OF WHAT YOU'RE DOING WITH MY SCRIPT
